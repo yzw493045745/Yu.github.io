@@ -95,7 +95,7 @@ During my PhD studies at Wageningen University & Research, I have been acting as
 - **Long, W.**, Zhu, X., Weikard, H.P., Oenema, O., Hou, Y. (08/2023). Integrated Environmental-economic modelling of sustainable food systems in China. Poster presentation delivered at the XVII EAAE Congress, Rennes, France.
 - **Long, W.**, Zhu, X., Weikard, H.P., Oenema, O., Hou, Y. (07/2023). Integrated Environmental-economic modelling of sustainable food systems in China. Oral presentation delivered at the EAERE Summer School, University of Graz, Graz, Austria.
 - **Long, W.**, Zhu, X., Weikard, H.P., Oenema, O., Hou, Y. (02/2023). Environmental trade-offs of dietary structure change can be alleviated by cleaner technology and emission restriction. Oral presentation delivered at the 7th Sino-Dutch AGD Symposium, Wageningen University & Research, Wageningen, The Netherlands.
-- **Long, W.**, Zhu, X., Weikard, H.P., Oenema, O., Hou, Y. (10/2022). An environmental-economic framework for assessing the impacts of adjustments in crop and livestock systems. Oral presentation delivered at the Wageningen School of Social Sciences (WASS) PhD Day, Wageningen University & Research, Wageningen, The Netherlands.
+- **Long, W.**, Zhu, X., Weikard, H.P., Oenema, O., Hou, Y. (10/2022). An environmental-economic framework for assessing the impacts of adjustments in crop and livestock systems. Oral presentation delivered at the WASS PhD Day, Wageningen University & Research, Wageningen, The Netherlands.
 
 # 👾 Training courses
 **EAERE Summer School in Resource and Environmental Economics**  

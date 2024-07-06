@@ -33,20 +33,7 @@ With over 6+ years of experience as a researcher and economist, I specialise in 
 - *2020*: &nbsp; One second-authored paper published in Agriculture, Ecosystems and Environment (JCR: Q1; IF=6.6).
 
 # 📝 Publications 
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
-
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
-
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-</div>
-</div>
-
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+- [Can dietary manipulations improve the productivity of pigs with lower environmental and economic cost? A global meta-analysis](https://www.sciencedirect.com/science/article/pii/S0167880919303640?via%3Dihub), Hongliang Wang, **Weitong Long**, Dave Chadwick, Gerard L Velthof, Oene Oenema, Wenqi Ma, Junjun Wang, Wei Qin, Yong Hou, Fusuo Zhang, **Agriculture, Ecosystems & Environment, 2020**
 
 # 💬 Conference Presentations
 - **Long, W.**, Zhu, X., Weikard, H.P., Oenema, O., Hou, Y. (07/2024). Quantifying the environmental and economic impacts of feeding China’s monogastric livestock with food waste: a general equilibrium approach. Oral presentation to be delivered at the EAERE 29th Annual Conference, Leuven, Belgium.

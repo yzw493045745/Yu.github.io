@@ -100,7 +100,8 @@ During my PhD studies at Wageningen University & Research, I have been acting as
 # 👾 Training courses
 **EAERE Summer School in Resource and Environmental Economics**
 *University of Graz, Graz, Austria*
-- Transnational and Cascading Climate Risks and Adaptation, 07/2023. 
+- Transnational and Cascading Climate Risks and Adaptation, 07/2023.     
+
 **Dynamic General Equilibrium Modelling Course**	
 *Victoria University & University of International Business and Economics, Beijing, China*
 - CHINAGEM, A Monash-Styled Dynamic Computable General Equilibrium Model of China, 07/2021. 

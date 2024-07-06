@@ -28,7 +28,7 @@ author:
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=ykye0_QAAAAJ&hl"
-  email            : "weitong.long@wur.nl
+  email            : "weitong.long@wur.nl"
   researchgate     : "https://www.researchgate.net/profile/Weitong-Long"
   uri              :
   bitbucket        :
@@ -37,18 +37,18 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : # e.g., "github username"
+  github           : "https://github.com/long013"
   google_plus      :
   keybase          :
   instagram        :
-  impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
+  impactstory      : 
   lastfm           :
   linkedin         : "https://www.linkedin.com/in/weitong-long-422714106"
-  dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
+  dblp             : 
   orcid            : "https://orcid.org/0000-0001-7410-1697"
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  stackoverflow    : 
   steam            :
   tumblr           :
   twitter          : "https://twitter.com/WeitongLong"

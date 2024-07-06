@@ -56,11 +56,19 @@ You can find my CV here: [Weitong Long's Curriculum Vitae](assets/20240706_CV_We
 **<ins>Abstract</ins>**: Around 1.3 billion tonnes of food waste are produced in the world, which are mainly disposed in landfills and incinerators, and are a significant source of greenhouse gas (GHG) emissions. While feeding animals with food waste may decrease such emissions, potential "rebound effect" remain unexplored. We used an integrated environmental-economic modelling framework to assess the impacts of upcycling food waste in China’s monogastric livestock production in a global context. We found that upcycling 54-100% of food waste as feed increased monogastric livestock production (25-37%) and average wage across the Chinese economy (0.18-0.22%), with negative indirect effects such as increased total agricultural land use (0.5-0.6%) and economy-wide emissions of acidification (3-6%) and eutrophication (0.5-0.8%) pollutants in China. Synergy effects from less food waste in landfills and incinerators, along with the contraction in non-food production, decreased Chinese economy-wide GHG emissions (0.5-0.9%). While feeding food waste strategies enhanced food availability (6-12 kcal capita-1 day-1) and affordability (0.38-0.49%) in China, it slightly reduced food availability (0.5-1.0 kcal capita-1 day-1) and increased affordability (0.18-0.22%) in its trading partners. Our results highlight the asymmetric impacts of feeding China’s monogastric livestock with food waste on food security and environment sustainability, urging complementary measures and policies to mitigate negative spillovers when promoting more circular food systems. 
 
 # 👩‍🏫 Teaching
-During my PhD studies, I have acquired extensive and valuable teaching experience as a teaching assistant at Wageningen University & Research. I have assisted in teaching two Master's level courses. You can view my teaching portfolio here, which includes a selection of the teaching materials I have used.
+During my PhD studies at Wageningen University & Research, I have been acting as the teaching assistant for the Master-level courses (Principles of climate change economics and policy, 2022; Economic modelling of sustainability challenges, 2023 & 2024) and supervising Master's thesis (2023 & 2024). 
 
 **Teaching Assistant, Wageningen University & Research**
-- ENR32806: Economic modelling of sustainability challenges (with Xueqin Zhu & Jack Peerlings, Spring semester 2023 & 2024). Master level, 6 ECTS. 
-- ENR22806: Principles of climate change economics and policy (with Xueqin Zhu & Ina Möller, Winter semester 2022), Master level, 6 ECTS. 
+- ENR32806: Economic modelling of sustainability challenges (with Xueqin Zhu & Jack Peerlings), Master level, 6 ECTS, Spring semester 2023 & 2024). 
+- ENR22806: Principles of climate change economics and policy (with Xueqin Zhu & Ina Möller), Master level, 6 ECTS, Winter semester 2022. 
+
+**Co-supervisor of Master Thesis, Wageningen University & Research**	  
+- Master thesis: Kehan Qiu (with Rolf Groeneveld), 12/2023-06/2024.
+- Master thesis: Huangshu Zhao (with Hans-Peter Weikard), 03/2023-09/2023.
+- Master thesis: Jia Zhou (with Xueqin Zhu), 03/2022-09/2022.
+
+**Chair of Master Thesis Ring, Wageningen University & Research**	  
+- Organised weekly meetings for Master students to discuss their written thesis, 01/2022-12/2022. 
 
 # 💬 Conference Presentations
 - **Long, W.**, Zhu, X., Weikard, H.P., Oenema, O., Hou, Y. (07/2024). Quantifying the environmental and economic impacts of feeding China’s monogastric livestock with food waste: a general equilibrium approach. Oral presentation to be delivered at the EAERE 29th Annual Conference, Leuven, Belgium.

@@ -49,6 +49,7 @@ You can find my CV here: [Weitong Long's Curriculum Vitae](assets/20240706_CV_We
 - **Long, W.**, Zhu, X., Weikard, H.P., Oenema, O., Hou, Y. (10/2022). An environmental-economic framework for assessing the impacts of adjustments in crop and livestock systems. Oral presentation delivered at the Wageningen School of Social Sciences (WASS) PhD Day, Wageningen, The Netherlands.
 
 # 🎖 Honors and Awards
+- *2024.07*: Junior Researcher Grant from Wageningen School of Social Sciences (WASS) (4000 €).
 - *2023.06*: Travel Grant from the LEB Foundation to participate in the XVII EAAE Congress (750 €).
 - *2020.08*: Excellent Master’s Degree Thesis of Chinese Society (Awarded to the 0.1% best master thesis in the research field of Plant Nutrition and Fertilizer Science).
 - *2019.10*: The First-Class Master Academic Scholarship of China Agricultural University (Top 1%). 

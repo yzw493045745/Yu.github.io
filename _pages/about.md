@@ -41,7 +41,7 @@ You can find my CV here: [Weitong Long's Curriculum Vitae](assets/20240706_CV_We
 - Wang, H., **Long, W.**, Chadwick, D., Zhang, X., Zhang, S., Piao, X., & Hou, Y. (2022). [Dietary acidifiers as an alternative to antibiotics for promoting pig growth performance: A systematic review and meta-analysis](https://www.sciencedirect.com/science/article/pii/S0377840122001183?via%3Dihub), **Animal Feed Science and Technology (JCR: Q1; IF=3.2)**, 115320.
 - Tong, B., Zhang, L., Hou, Y., Oenema, O., **Long, W.**, Velthof, G. L., ... & Zhang, F. (2020). [Lower pork consumption and technological change in feed production can reduce the pork supply chain environmental footprint in China](https://www.nature.com/articles/s43016-022-00640-6), **Nature Food (JCR: Q1; IF=23.2)**, 1-10.
 
-# 📜 WORK IN PROGRESS
+# 📜 Work in Progress
 - **Long, W.**, Zhu, X., Weikard, H.P., Oenema, O., Hou, Y. (Under Review at **Sustainable Production and Consumption, JCR: Q1; IF=12.1**). How can sustainable food production and consumption in China be achieved?
 - **Long, W.**, Zhu, X., Weikard, H.P., Oenema, O., Hou, Y. (**Job Market Paper**, Submitted to a Peer-reviewed Journal). The asymmetric impacts of feeding China’s monogastric livestock with food waste on food security and environment sustainability.
 

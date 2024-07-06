@@ -15,10 +15,10 @@ With over 6+ years of experience as a researcher and economist, I specialise in 
 You can find my CV here: [Weitong Long's Curriculum Vitae](assets/20240706_CV_Weitong Long.pdf)
 
 # 📖 Education
-- *2020.09 - 2025.09 (Expected)*: PhD Candidate of Economics in Environmental and Natural Resource Economics, Wageningen University & Research (supervised by Xueqin Zhu, Hans-Peter Weikard, Oene Oenema, Yong Hou), Wageningen, The Netherlands.
-- *2024.10 - 2025.01*: Visiting PhD Student, University of California, Davis(supervised by Luis M. Peña-Lévano), California, United States.
-- *2020.09 - 2021.09*: Visiting PhD Student, China Agricultural University (supervised by Yong Hou), Beijing, China.
-- *2018.09 - 2020.06*: Master of Agriculture in Plant Nutrition, China Agricultural University (supervised by Yong Hou), Beijing, China.
+- *2020.09 - 2025.09 (Expected)*: PhD Candidate of Economics in Environmental and Natural Resource Economics, Wageningen University & Research, Wageningen, The Netherlands.
+- *2024.10 - 2025.01*: Visiting PhD Student, University of California, Davis(supervised by [Luis M. Peña-Lévano](https://www.vetmed.ucdavis.edu/faculty/luis-m-pena-levano)), California, United States.
+- *2020.09 - 2021.09*: Visiting PhD Student, China Agricultural University (supervised by [Yong Hou](https://faculty.cau.edu.cn/hy100/list.htm)), Beijing, China.
+- *2018.09 - 2020.06*: Master of Agriculture in Plant Nutrition, China Agricultural University, Beijing, China.
 - *2014.09 - 2018.06*: Bachelor of Agriculture in Agricultural Resources and Environment (Dual Bachelor of Arts in English), Hunan Agricultural University, Changsha, China. 
 
 # 🔥 News

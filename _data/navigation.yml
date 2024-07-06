@@ -12,6 +12,9 @@ main:
   - title: "Key Publications"
     url: "/#-key-publications"
 
+  - title: "Work in Progress"
+    url: "/#-work-in-progress"
+
   - title: "Conference Presentations"
     url: "/#-conference-presentations"
 

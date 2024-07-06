@@ -33,7 +33,7 @@ With over 6+ years of experience as a researcher and economist, I specialise in 
 - *2020*: &nbsp; One second-authored paper published in Agriculture, Ecosystems and Environment (JCR: Q1; IF=6.6).
 
 # 📝 Publications 
-- [Can dietary manipulations improve the productivity of pigs with lower environmental and economic cost? A global meta-analysis](https://www.sciencedirect.com/science/article/pii/S0167880919303640?via%3Dihub), Hongliang Wang, **Weitong Long**, Dave Chadwick, Gerard L Velthof, Oene Oenema, Wenqi Ma, Junjun Wang, Wei Qin, Yong Hou, Fusuo Zhang, **Agriculture, Ecosystems & Environment, 2020**
+- Hongliang Wang, **Weitong Long**, Dave Chadwick, Gerard L Velthof, Oene Oenema, Wenqi Ma, Junjun Wang, Wei Qin, Yong Hou, Fusuo Zhang (2020). [Can dietary manipulations improve the productivity of pigs with lower environmental and economic cost? A global meta-analysis](https://www.sciencedirect.com/science/article/pii/S0167880919303640?via%3Dihub), **Agriculture, Ecosystems & Environment (JCR: Q1; IF=3.2)**
 
 # 💬 Conference Presentations
 - **Long, W.**, Zhu, X., Weikard, H.P., Oenema, O., Hou, Y. (07/2024). Quantifying the environmental and economic impacts of feeding China’s monogastric livestock with food waste: a general equilibrium approach. Oral presentation to be delivered at the EAERE 29th Annual Conference, Leuven, Belgium.

@@ -55,7 +55,7 @@ With over 6+ years of experience as a researcher and economist, I specialise in 
 - *2018.11*: The First Prize of China Agricultural University English Speech Contest (Top 1%). 
 - *2015.09*, The Third Prize of the National English Contest for Chinese College Students (Top 3%). 
 
-# 💬 CONFERENCE PRESENTATIONS
+# 💬 Conference Presentations
 - **Long, W.**, Zhu, X., Weikard, H.P., Oenema, O., Hou, Y. (07/2024). Quantifying the environmental and economic impacts of feeding China’s monogastric livestock with food waste: a general equilibrium approach. Oral presentation to be delivered at the EAERE 29th Annual Conference, Leuven, Belgium.
 - **Long, W.**, Zhu, X., Weikard, H.P., Oenema, O., Hou, Y. (06/2024). Quantifying the environmental and economic impacts of feeding China’s monogastric livestock with food waste: a general equilibrium approach. Oral presentation delivered at the III Economy for The Common Good International Conference, Leeuwarden, Fryslân, The Netherlands.
 - **Long, W.**, Zhu, X., Weikard, H.P., Oenema, O., Hou, Y. (05/2024). The asymmetric impacts of feeding China’s monogastric livestock with food waste on food security and environment sustainability. Oral presentation delivered at the 9th Sino-Dutch AGD Symposium, Wageningen, The Netherlands.

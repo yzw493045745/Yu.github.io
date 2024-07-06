@@ -28,7 +28,10 @@ main:
     url: "/#-conference-presentations"
 
   - title: "Grants and Awards"
-    url: "/#-Grants-and-awards"
+    url: "/#-grants-and-awards"
+
+  - title: "Training courses"
+    url: "/#-training-courses"
 
   - title: "Skills"
     url: "/#-skills"

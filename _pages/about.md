@@ -21,7 +21,7 @@ I am a fourth-year PhD candidate from [Environmental Economics and Natural Resou
 
 With over 6+ years of experience as a researcher and economist, I specialise in integrated environmental-economic modelling and impact assessment. My expertise lies in applying quantitative modelling approaches to explore mitigation pathways for sustainable food systems. My PhD dissertation focuses on assessing the impacts of food system transformation pathways—such as supply-side and demand-side measures, and environmental policies—at the regional, national, and global levels. I employ an integrated environmental-economic modelling approach based on a computable general equilibrium framework that is able to represent regional consumption, production, environmental variables, and international trade with other regions. I have published 9 scientific papers in peer-reviewed journals, including one first-authored paper published in **Environmental Science & Technology (JCR: Q1; IF= 11.4)** and one co-authored paper published in **Nature Food (JCR: Q1; IF=23.2)**. 
 
-You can find my CV here: [Weitong Long's Curriculum Vitae](assets/20240706_CV_Weitong Long.pdf)
+You can find my CV here: [Weitong Long's Curriculum Vitae]("assets/20240706_CV_Weitong Long.pdf")
 
 # 📖 Education
 - *2020.09 - 2025.09 (Expected)*: PhD Candidate of Economics in Environmental and Natural Resource Economics, Wageningen University & Research (supervised by Xueqin Zhu, Hans-Peter Weikard, Oene Oenema, Yong Hou), Wageningen, The Netherlands.

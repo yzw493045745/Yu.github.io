@@ -97,7 +97,7 @@ During my PhD studies at Wageningen University & Research, I have been acting as
 - **Long, W.**, Zhu, X., Weikard, H.P., Oenema, O., Hou, Y. (02/2023). Environmental trade-offs of dietary structure change can be alleviated by cleaner technology and emission restriction. Oral presentation delivered at the 7th Sino-Dutch AGD Symposium, Wageningen University & Research, Wageningen, The Netherlands.
 - **Long, W.**, Zhu, X., Weikard, H.P., Oenema, O., Hou, Y. (10/2022). An environmental-economic framework for assessing the impacts of adjustments in crop and livestock systems. Oral presentation delivered at the Wageningen School of Social Sciences (WASS) PhD Day, Wageningen University & Research, Wageningen, The Netherlands.
 
-# 🎖 Honors and Awards
+# 🎖 Grants and Awards
 - *2024.07*: Junior Researcher Grant from Wageningen School of Social Sciences (WASS) (4000 €).
 - *2023.06*: Travel Grant from the LEB Foundation to participate in the XVII EAAE Congress (750 €).
 - *2020.08*: Excellent Master’s Degree Thesis of Chinese Society (Awarded to the 0.1% best master thesis in the research field of Plant Nutrition and Fertilizer Science).

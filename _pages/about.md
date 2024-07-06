@@ -70,11 +70,13 @@ During my PhD studies at Wageningen University & Research, I have been acting as
 **Chair of Master Thesis Ring, Wageningen University & Research**	  
 - Organised weekly meetings for Master students to discuss their written thesis, 01/2022-12/2022. 
 
-# 👩‍🏫 Academic Services
+# 💡 Academic Services
 **Conference Parallel Session Chair**
 - 29th Anuual Conference of European Association of Environmental and Resource Economists (EAERE), 07/2024.  
+
 **Conference Abstract Reviewer**
 - 2024 Agricultural and Applied Economics Association (AAEA) Annual Meeting, 02/2024.  
+
 **Conference Organising Committee**
 - 7th Sino-Dutch Agriculture Green Development (AGD) Symposium, 02/2023.  
 

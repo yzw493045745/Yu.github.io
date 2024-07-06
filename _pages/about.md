@@ -30,13 +30,6 @@ With over 6+ years of experience as a researcher and economist, I specialise in 
 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
-# 🎖 Honors and Awards
-- *2023.06*: Travel Grant from the LEB Foundation to participate in the XVII EAAE Congress (750 €).
-- *2020.08*: Excellent Master’s Degree Thesis of Chinese Society (awarded to the 0.1% best master thesis in the research field of Plant Nutrition and Fertilizer Science).
-- *2019.10*: The First-Class Master Academic Scholarship of China Agricultural University (Top 1%). 
-- *2018.11*: The First Prize of China Agricultural University English Speech Contest (Top 1%). 
-- *2015.09*: The Third Prize of the National English Contest for Chinese College Students (Top 3%). 
-
 # 💬 Conference Presentations
 - **Long, W.**, Zhu, X., Weikard, H.P., Oenema, O., Hou, Y. (07/2024). Quantifying the environmental and economic impacts of feeding China’s monogastric livestock with food waste: a general equilibrium approach. Oral presentation to be delivered at the EAERE 29th Annual Conference, Leuven, Belgium.
 - **Long, W.**, Zhu, X., Weikard, H.P., Oenema, O., Hou, Y. (06/2024). Quantifying the environmental and economic impacts of feeding China’s monogastric livestock with food waste: a general equilibrium approach. Oral presentation delivered at the III Economy for The Common Good International Conference, Leeuwarden, Fryslân, The Netherlands.
@@ -45,9 +38,15 @@ With over 6+ years of experience as a researcher and economist, I specialise in 
 - **Long, W.**, Zhu, X., Weikard, H.P., Oenema, O., Hou, Y. (02/2023). Environmental trade-offs of dietary structure change can be alleviated by cleaner technology and emission restriction. Oral presentation delivered at the 7th Sino-Dutch AGD Symposium, Wageningen, The Netherlands.
 - **Long, W.**, Zhu, X., Weikard, H.P., Oenema, O., Hou, Y. (10/2022). An environmental-economic framework for assessing the impacts of adjustments in crop and livestock systems. Oral presentation delivered at the Wageningen School of Social Sciences (WASS) PhD Day, Wageningen, The Netherlands.
 
+# 🎖 Honors and Awards
+- *2023.06*: Travel Grant from the LEB Foundation to participate in the XVII EAAE Congress (750 €).
+- *2020.08*: Excellent Master’s Degree Thesis of Chinese Society (awarded to the 0.1% best master thesis in the research field of Plant Nutrition and Fertilizer Science).
+- *2019.10*: The First-Class Master Academic Scholarship of China Agricultural University (Top 1%). 
+- *2018.11*: The First Prize of China Agricultural University English Speech Contest (Top 1%). 
+- *2015.09*: The Third Prize of the National English Contest for Chinese College Students (Top 3%). 
+
 # 💻 Skills
 - **Programming**: General Algebraic Modeling System (GAMS, advanced, e.g. model establishment), General Equilibrium Modelling PACKage (GEMPACK, intermediate), R (intermediate).
 - **Modelling**: Applied general equilibrium (AGE) modelling, life cycle assessment (LCA), input-output (I-O) analysis, material flow analysis (MFA), and meta-analysis.
 - **Software**: ArcGIS, Simapro, Latex, and Microsoft Office.
 - **Languages**: Native to Mandarin Chinese. Strong reading, writing and speaking competencies in English. 
-

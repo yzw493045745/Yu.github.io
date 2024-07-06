@@ -15,8 +15,11 @@ main:
   - title: "Working papers"
     url: "/#-working-papers"
 
-  - title: "Teaching"
-    url: "/#-teaching"
+  - title: "Teaching and Mentoring"
+    url: "/#-teaching-and-mentoring"
+
+  - title: "Academic Service"
+    url: "/#-academic-service"
 
   - title: "Conference Presentations"
     url: "/#-conference-presentations"

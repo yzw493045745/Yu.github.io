@@ -46,8 +46,8 @@ With over 6+ years of experience as a researcher and economist, I specialise in 
 - **Long, W.**, Zhu, X., Weikard, H.P., Oenema, O., Hou, Y. (10/2022). An environmental-economic framework for assessing the impacts of adjustments in crop and livestock systems. Oral presentation delivered at the Wageningen School of Social Sciences (WASS) PhD Day, Wageningen, The Netherlands.
 
 # 💻 Skills
-- *Programming*: General Algebraic Modeling System (GAMS, advanced, e.g. model establishment), General Equilibrium Modelling PACKage (GEMPACK, intermediate), R (intermediate).
-- *Modelling*: Applied general equilibrium (AGE) modelling, life cycle assessment (LCA), input-output (I-O) analysis, material flow analysis (MFA), and meta-analysis.
-- *Software*: ArcGIS, Simapro, Latex, and Microsoft Office.
-- *Languages*: Native to Mandarin Chinese. Strong reading, writing and speaking competencies in English. 
+- **Programming**: General Algebraic Modeling System (GAMS, advanced, e.g. model establishment), General Equilibrium Modelling PACKage (GEMPACK, intermediate), R (intermediate).
+- **Modelling**: Applied general equilibrium (AGE) modelling, life cycle assessment (LCA), input-output (I-O) analysis, material flow analysis (MFA), and meta-analysis.
+- **Software**: ArcGIS, Simapro, Latex, and Microsoft Office.
+- **Languages**: Native to Mandarin Chinese. Strong reading, writing and speaking competencies in English. 
 

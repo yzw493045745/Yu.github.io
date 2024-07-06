@@ -20,12 +20,12 @@ redirect_from:
 With over 6+ years of experience as a researcher and economist, I specialise in integrated environmental-economic modelling and impact assessment. My expertise lies in applying quantitative modelling approaches to explore mitigation pathways for sustainable food systems. My PhD dissertation focuses on assessing the impacts of food system transformation pathways—such as supply-side and demand-side measures, and environmental policies—at the regional, national, and global levels. I employ an integrated environmental-economic modelling approach based on a computable general equilibrium framework that is able to represent regional consumption, production, environmental variables, and international trade with other regions. I have published 9 scientific papers in peer-reviewed journals, including one first-authored paper published in Environmental Science & Technology (JCR: Q1; IF= 11.4), which highlights my quality of research. 
 
 # 🔥 News
-- *2024*: &nbsp;🎉🎉 Oral presentation delivered at the III Economy for The Common Good International Conference (Leeuwarden, Fryslân, The Netherlands) and European Association of Environmental and Resource Economists (EAERE) 29th Annual Conference (Leuven, Belgium). 
-- *2023*: &nbsp;🎉🎉 Poster presentation delivered at the XVII European Association of Agricultural Economists (EAAE) Congress (Rennes, France) and oral presentation delivered at the EAERE Summer School (University of Graz, Graz, Austria).
+- *2024*: &nbsp; Oral presentation delivered at the III Economy for The Common Good International Conference (Leeuwarden, Fryslân, The Netherlands) and European Association of Environmental and Resource Economists (EAERE) 29th Annual Conference (Leuven, Belgium). 
+- *2023*: &nbsp; Poster presentation delivered at the XVII European Association of Agricultural Economists (EAAE) Congress (Rennes, France) and oral presentation delivered at the EAERE Summer School (University of Graz, Graz, Austria).
 - *2023*: &nbsp;🎉🎉 One co-authored paper published in Nature Food ((JCR: Q1; IF= 23.2).
-- *2022*: &nbsp;🎉🎉 One second-authored paper published in Animal Feed Science and Technology (JCR: Q1; IF=3.2).
+- *2022*: &nbsp;🎉 One second-authored paper published in Animal Feed Science and Technology (JCR: Q1; IF=3.2).
 - *2021*: &nbsp;🎉🎉 One first-authored paper published in Environmental Science & Technology (JCR: Q1; IF=11.4).
-- *2020*: &nbsp;🎉🎉 One second-authored paper published in Agriculture, Ecosystems and Environment (JCR: Q1; IF=6.6).
+- *2020*: &nbsp;🎉 One second-authored paper published in Agriculture, Ecosystems and Environment (JCR: Q1; IF=6.6).
 
 # 📝 Publications 
 

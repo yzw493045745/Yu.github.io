@@ -2,9 +2,9 @@
 With over 6+ years of experience as a researcher and economist, I specialise in integrated environmental-economic modelling and impact assessment. My expertise lies in applying quantitative modelling approaches to explore mitigation pathways for sustainable food systems. My PhD dissertation focuses on assessing the impacts of food system transformation pathways—such as supply-side and demand-side measures, and environmental policies—at the regional, national, and global levels. I employ an integrated environmental-economic modelling approach based on a computable general equilibrium framework that is able to represent regional consumption, production, environmental variables, and international trade with other regions. I have published 9 scientific papers in peer-reviewed journals, including one first-authored paper published in Environmental Science & Technology (JCR: Q1; IF= 11.4), which highlights my quality of research. 
 
 # 📖 Education
-- *2020.09 - 2025.09 (Expected)*, PhD Candidate of Economics in Environmental and Natural Resource Economics, Wageningen University & Research, Wageningen, The Netherlands.
-- *2018.09 - 2020.06*, Master of Agriculture in Plant Nutrition, China Agricultural University, Beijing, China.
-- *2014.09 - 2018.06*, Bachelor of Agriculture in Agricultural Resources and Environment (Dual Bachelor of Arts in English), Hunan Agricultural University, Changsha, China. 
+- *2020.09 - 2025.09 (Expected)*: PhD Candidate of Economics in Environmental and Natural Resource Economics, Wageningen University & Research, Wageningen, The Netherlands.
+- *2018.09 - 2020.06*: Master of Agriculture in Plant Nutrition, China Agricultural University, Beijing, China.
+- *2014.09 - 2018.06*: Bachelor of Agriculture in Agricultural Resources and Environment (Dual Bachelor of Arts in English), Hunan Agricultural University, Changsha, China. 
 
 # 🔥 News
 - *2024*: &nbsp; Oral presentation delivered at the III Economy for The Common Good International Conference (Leeuwarden, Fryslân, The Netherlands) and European Association of Environmental and Resource Economists (EAERE) 29th Annual Conference (Leuven, Belgium). 

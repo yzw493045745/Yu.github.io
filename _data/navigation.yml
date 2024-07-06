@@ -27,11 +27,11 @@ main:
   - title: "Conference Presentations"
     url: "/#-conference-presentations"
 
-  - title: "Grants and Awards"
-    url: "/#-grants-and-awards"
-
   - title: "Training courses"
     url: "/#-training-courses"
+
+  - title: "Grants and Awards"
+    url: "/#-grants-and-awards"
 
   - title: "Skills"
     url: "/#-skills"

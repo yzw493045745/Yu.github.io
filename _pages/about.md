@@ -98,11 +98,11 @@ During my PhD studies at Wageningen University & Research, I have been acting as
 - **Long, W.**, Zhu, X., Weikard, H.P., Oenema, O., Hou, Y. (10/2022). An environmental-economic framework for assessing the impacts of adjustments in crop and livestock systems. Oral presentation delivered at the Wageningen School of Social Sciences (WASS) PhD Day, Wageningen University & Research, Wageningen, The Netherlands.
 
 # 👾 Training courses
-**EAERE Summer School in Resource and Environmental Economics**
+**EAERE Summer School in Resource and Environmental Economics**  
 *University of Graz, Graz, Austria*
 - Transnational and Cascading Climate Risks and Adaptation, 07/2023.     
 
-**Dynamic General Equilibrium Modelling Course**	
+**Dynamic General Equilibrium Modelling Course**  
 *Victoria University & University of International Business and Economics, Beijing, China*
 - CHINAGEM, A Monash-Styled Dynamic Computable General Equilibrium Model of China, 07/2021. 
 

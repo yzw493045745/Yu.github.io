@@ -52,7 +52,7 @@ You can find my CV here: [Weitong Long's Curriculum Vitae](assets/20240706_CV_We
 - **Long, W.**, Zhu, X., Weikard, H.P., Oenema, O., Hou, Y. (08/2023). Integrated Environmental-economic modelling of sustainable food systems in China. Poster presentation delivered at the XVII EAAE Congress, Rennes, France.
 - **Long, W.**, Zhu, X., Weikard, H.P., Oenema, O., Hou, Y. (07/2023). Integrated Environmental-economic modelling of sustainable food systems in China. Oral presentation delivered at the EAERE Summer School, University of Graz, Graz, Austria.
 - **Long, W.**, Zhu, X., Weikard, H.P., Oenema, O., Hou, Y. (02/2023). Environmental trade-offs of dietary structure change can be alleviated by cleaner technology and emission restriction. Oral presentation delivered at the 7th Sino-Dutch AGD Symposium, Wageningen, The Netherlands.
-- **Long, W.**, Zhu, X., Weikard, H.P., Oenema, O., Hou, Y. (10/2022). An environmental-economic framework for assessing the impacts of adjustments in crop and livestock systems. Oral presentation delivered at the Wageningen School of Social Sciences (WASS) PhD Day, Wageningen, The Netherlands.
+- **Long, W.**, Zhu, X., Weikard, H.P., Oenema, O., Hou, Y. (10/2022). An environmental-economic framework for assessing the impacts of adjustments in crop and livestock systems. Oral presentation delivered at the Wageningen School of Social Sciences (WASS) PhD Day, Wageningen University & Research, Wageningen, The Netherlands.
 
 # 🎖 Honors and Awards
 - *2024.07*: Junior Researcher Grant from Wageningen School of Social Sciences (WASS) (4000 €).

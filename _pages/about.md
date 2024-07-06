@@ -106,7 +106,7 @@ During my PhD studies at Wageningen University & Research, I have been acting as
 *Victoria University & University of International Business and Economics, Beijing, China*
 - CHINAGEM, A Monash-Styled Dynamic Computable General Equilibrium Model of China, 07/2021. 
 
-# 🎖 Grants and Awards
+# 🏆 Grants and Awards
 - *2024.07*: Junior Researcher Grant from Wageningen School of Social Sciences (WASS) (4000 €).
 - *2023.06*: Travel Grant from the LEB Foundation to participate in the XVII EAAE Congress (750 €).
 - *2020.08*: Excellent Master’s Degree Thesis of Chinese Society (Awarded to the 0.1% best master thesis in the research field of Plant Nutrition and Fertilizer Science).

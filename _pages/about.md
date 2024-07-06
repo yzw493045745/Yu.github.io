@@ -51,9 +51,9 @@ With over 6+ years of experience as a researcher and economist, I specialise in 
 # 🎖 Honors and Awards
 - *2023.06*: Travel Grant from the LEB Foundation to participate in the XVII EAAE Congress (750 €).
 - *2020.08*: Excellent Master’s Degree Thesis of Chinese Society (awarded to the 0.1% best master thesis in the research field of Plant Nutrition and Fertilizer Science).
-- *2019.10*, The First-Class Master Academic Scholarship of China Agricultural University (Top 1%). 
+- *2019.10*: The First-Class Master Academic Scholarship of China Agricultural University (Top 1%). 
 - *2018.11*: The First Prize of China Agricultural University English Speech Contest (Top 1%). 
-- *2015.09*, The Third Prize of the National English Contest for Chinese College Students (Top 3%). 
+- *2015.09*: The Third Prize of the National English Contest for Chinese College Students (Top 3%). 
 
 # 💬 Conference Presentations
 - **Long, W.**, Zhu, X., Weikard, H.P., Oenema, O., Hou, Y. (07/2024). Quantifying the environmental and economic impacts of feeding China’s monogastric livestock with food waste: a general equilibrium approach. Oral presentation to be delivered at the EAERE 29th Annual Conference, Leuven, Belgium.

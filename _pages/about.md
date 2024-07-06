@@ -27,10 +27,10 @@ With over 6+ years of experience as a researcher and economist, I specialise in 
 # 🔥 News
 - *2024*: &nbsp; Oral presentation delivered at the III Economy for The Common Good International Conference (ECGIC) (Leeuwarden, Fryslân, The Netherlands) and European Association of Environmental and Resource Economists (EAERE) 29th Annual Conference (Leuven, Belgium). 
 - *2023*: &nbsp; Poster presentation delivered at the XVII European Association of Agricultural Economists (EAAE) Congress (Rennes, France) and oral presentation delivered at the EAERE Summer School (University of Graz, Graz, Austria).
-- *2023*: &nbsp;🎉 One co-authored paper published in **Nature Food ((JCR: Q1; IF= 23.2)**.
-- *2022*: &nbsp; One second-authored paper published in **Animal Feed Science and Technology (JCR: Q1; IF=3.2)**.
-- *2021*: &nbsp;🎉 One first-authored paper published in **Environmental Science & Technology (JCR: Q1; IF=11.4)**.
-- *2020*: &nbsp; One second-authored paper published in **Agriculture, Ecosystems and Environment (JCR: Q1; IF=6.6)**.
+- *2023*: &nbsp;🎉 One co-authored paper published in Nature Food ((JCR: Q1; IF= 23.2).
+- *2022*: &nbsp; One second-authored paper published in Animal Feed Science and Technology (JCR: Q1; IF=3.2).
+- *2021*: &nbsp;🎉 One first-authored paper published in Environmental Science & Technology (JCR: Q1; IF=11.4).
+- *2020*: &nbsp; One second-authored paper published in Agriculture, Ecosystems and Environment (JCR: Q1; IF=6.6).
 
 # 📝 Key Publications 
 - Hongliang Wang, **Weitong Long**, Dave Chadwick, Gerard L Velthof, Oene Oenema, Wenqi Ma, Junjun Wang, Wei Qin, Yong Hou, Fusuo Zhang (2020). [Can dietary manipulations improve the productivity of pigs with lower environmental and economic cost? A global meta-analysis](https://www.sciencedirect.com/science/article/pii/S0167880919303640?via%3Dihub), **Agriculture, Ecosystems & Environment (JCR: Q1; IF=3.2)**

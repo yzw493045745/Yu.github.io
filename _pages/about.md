@@ -17,7 +17,7 @@ With over 6+ years of experience as a researcher and economist, I specialise in 
 In my **Job Market Paper** ([Main Text](assets/20240520_Food waste paper_Weitong Long.pdf); [Supplementary information](assets/20240520_Supplementary information_Food waste paper_Weitong Long.pdf)), I discussed the asymmetric impacts of feeding China’s monogastric livestock with food waste on food security and environment sustainability. 
 
 You can reach me at weitong.long@wur.nl. 
-You can find my CV here: [Weitong Long's Curriculum Vitae](assets/20240706_CV_Weitong Long.pdf)
+You can find my CV here: [Weitong Long's Curriculum Vitae](assets/20240711_CV_Weitong Long.pdf)
 
 **I am expected to receive my PhD in September 2025. Currently, I am seeking academic opportunities for the 2024-2025 academic year. I am available for interviews at both the European Job Market (EJME) and the Allied Social Science Associations (ASSA).**
 

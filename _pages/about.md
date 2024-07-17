@@ -33,10 +33,10 @@ You can find my CV here: [Weitong Long's Curriculum Vitae](assets/20240717_CV_We
 - *2024*: &nbsp; Oral presentations delivered at the **III Economy for The Common Good International Conference (ECGIC)** (Leeuwarden, Fryslân, The Netherlands) and **European Association of Environmental and Resource Economists (EAERE) 29th Annual Conference** (Leuven, Belgium).
 - *2023*: &nbsp;🎉 **Travel Grant** from the LEB Foundation to participate in the XVII European Association of Agricultural Economists (EAAE) Congress (750 €).
 - *2023*: &nbsp; A poster presentation delivered at the **XVII EAAE Congress** (Rennes, France) and an oral presentation delivered at the **EAERE Summer School** (University of Graz, Graz, Austria).
-- *2023*: &nbsp;🎉 One co-authored paper published in **Nature Food (JCR: Q1, IF= 23.2, SCI)**.
-- *2022*: &nbsp; One second-authored paper published in **Animal Feed Science and Technology (JCR: Q1, IF=3.2, SCI)**.
-- *2021*: &nbsp;🎉 One first-authored paper published in **Environmental Science & Technology (JCR: Q1, IF=11.4, SCI)**.
-- *2020*: &nbsp; One second-authored paper published in **Agriculture, Ecosystems and Environment (JCR: Q1, IF=6.6, SCI)**.
+- *2023*: &nbsp;🎉 One co-authored paper published in **Nature Food (SCI Q1; IF= 23.6)**.
+- *2022*: &nbsp; One second-authored paper published in **Animal Feed Science and Technology (SCI Q1; IF=2.5)**.
+- *2021*: &nbsp;🎉 One first-authored paper published in **Environmental Science & Technology (SCI Q1; IF=10.8)**.
+- *2020*: &nbsp; One second-authored paper published in **Agriculture, Ecosystems and Environment (SCI Q1; IF=6.0)**.
 
 # 📝 Key Publications 
 **Citations (Google Scholar: 15/07/2024): total=156; h-index=7; i-10=6**

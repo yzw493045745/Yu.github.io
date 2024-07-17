@@ -16,10 +16,14 @@ With over 6+ years of experience as a researcher and economist, I specialise in 
 
 In my **Job Market Paper** ([Main Text](assets/20240520_Food waste paper_Weitong Long.pdf); [Supplementary information](assets/20240520_Supplementary information_Food waste paper_Weitong Long.pdf); [Slides](assets/20240703_Food waste slides_Weitong Long.pdf)), I discussed the asymmetric impacts of feeding China’s monogastric livestock with food waste on food security and environment sustainability. 
 
-You can reach me at weitong.long@wur.nl. 
-You can find my CV here: [Weitong Long's Curriculum Vitae](assets/20240717_CV_Weitong Long.pdf)
+📧 You can reach me at weitong.long@wur.nl. You can find my CV here: [Weitong Long's Curriculum Vitae](assets/20240717_CV_Weitong Long.pdf)
 
 **I am expected to receive my PhD in September 2025. Currently, I am seeking academic opportunities for the 2024-2025 academic year. I am available for interviews at both the [European Job Market (EJME)](https://www.europeanjobmarketofeconomists.org/) and the [Allied Social Science Associations (ASSA)](https://www.aeaweb.org/conference/).**
+
+# 📎 Research Interests
+- Sustainable food provision and food-land-water-climate nexus 🍽️🐾💧🌎
+- Integrated environmental-economic modelling 💻
+- Environmental impact assessment of the food chain 🧩
 
 # 📖 Education
 - *2020.09 - 2025.09 (Expected)*: PhD Candidate of Economics in Environmental and Natural Resource Economics, [Wageningen University & Research](https://www.wur.nl/) (supervised by Associate Prof. Dr. [Xueqin Zhu](https://research.wur.nl/en/persons/xueqin-zhu), Associate Prof. Dr. [Hans-Peter Weikard](https://research.wur.nl/en/persons/hans-peter-weikard), Prof. Dr. [Oene Oenema](https://research.wur.nl/en/persons/oene-oenema), and Prof. Dr. [Yong Hou](https://faculty.cau.edu.cn/hy100/list.htm)), Wageningen, The Netherlands.

@@ -22,8 +22,8 @@ In my **Job Market Paper** ([Main Text](assets/20240520_Food waste paper_Weitong
 
 # 🎀 Research Interests
 - Sustainable food provision and food-land-water-climate nexus 🍽️🐾💧🌎
-- Integrated environmental-economic modelling 💻
-- Environmental impact assessment of the food chain 🧩
+- Integrated environmental-economic modelling of the food systems 💻
+- Environmental impact assessment of the food systems 🧩
 
 # 📖 Education
 - *2020.09 - 2025.09 (Expected)*: PhD Candidate of Economics in Environmental and Natural Resource Economics, [Wageningen University & Research](https://www.wur.nl/) (supervised by Associate Prof. Dr. [Xueqin Zhu](https://research.wur.nl/en/persons/xueqin-zhu), Associate Prof. Dr. [Hans-Peter Weikard](https://research.wur.nl/en/persons/hans-peter-weikard), Prof. Dr. [Oene Oenema](https://research.wur.nl/en/persons/oene-oenema), and Prof. Dr. [Yong Hou](https://faculty.cau.edu.cn/hy100/list.htm)), Wageningen, The Netherlands.

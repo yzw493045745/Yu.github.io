@@ -81,10 +81,10 @@ During my PhD studies at Wageningen University & Research, I have been acting as
 
 # 💡 Academic Services
 **Conference Parallel Session Chair**
-- The 29th Anuual Conference of European Association of Environmental and Resource Economists (EAERE), 07/2024.  
+- [The 29th Anuual Conference of EAERE](http://www.eaere-conferences.org/index.php?y=2024), 07/2024.  
 
 **Conference Abstract Reviewer**
-- The 2024 Agricultural and Applied Economics Association (AAEA) Annual Meeting, 02/2024.  
+- [The 2024 Agricultural and Applied Economics Association (AAEA) Annual Meeting](https://www.aaea.org/meetings/2024-aaea-annual-meeting), 02/2024.  
 
 **Conference Organising Committee**
 - The 7th Sino-Dutch Agriculture Green Development (AGD) Symposium, 02/2023.  

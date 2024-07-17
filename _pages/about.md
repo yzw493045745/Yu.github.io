@@ -31,7 +31,7 @@ You can find my CV here: [Weitong Long's Curriculum Vitae](assets/20240717_CV_We
 # 🔥 News
 - *2024*: &nbsp;🎉 **[Junior Researcher Grant](https://www.wur.nl/en/education-programmes/phd-programme/graduate-schools/wageningen-school-of-social-sciences/phd-candidates/phd-grants.htm)** from Wageningen School of Social Sciences (WASS) (4,000 €).
 - *2024*: &nbsp; Oral presentations delivered at the **[III Economy for The Common Good International Conference (ECGIC)](https://www.wetsus.nl/ecgic-2024/)** (Leeuwarden, Fryslân, The Netherlands) and **[European Association of Environmental and Resource Economists (EAERE) 29th Annual Conference](http://www.eaere-conferences.org/index.php?y=2024)** (Leuven, Belgium).
-- *2023*: &nbsp;🎉 **[Travel Grant from the LEB Travel Fund](https://www.wur.nl/en/value-creation-cooperation/benefactors/information-for-applicants/leb-foundation.htm)** to participate in the XVII European Association of Agricultural Economists (EAAE) Congress (750 €).
+- *2023*: &nbsp;🎉 **[Travel Grant](https://www.wur.nl/en/value-creation-cooperation/benefactors/information-for-applicants/leb-foundation.htm)** from the LEB Travel Fund to participate in the XVII European Association of Agricultural Economists (EAAE) Congress (750 €).
 - *2023*: &nbsp; A poster presentation delivered at the **[XVII EAAE Congress](https://eaae2023.colloque.inrae.fr/)** (Rennes, France) and an oral presentation delivered at the **[EAERE Summer School](https://eaere-summer-school.uni-graz.at/en/summer-schools-2021-23/)** (University of Graz, Graz, Austria).
 - *2023*: &nbsp;🎉 One co-authored paper published in **Nature Food (SCI Q1; IF= 23.6)**.
 - *2022*: &nbsp; One second-authored paper published in **Animal Feed Science and Technology (SCI Q1; IF=2.5)**.
@@ -110,7 +110,7 @@ During my PhD studies at Wageningen University & Research, I have been acting as
 
 # 🏆 Grants and Awards
 - *2024.07*: [Junior Researcher Grant](https://www.wur.nl/en/education-programmes/phd-programme/graduate-schools/wageningen-school-of-social-sciences/phd-candidates/phd-grants.htm) from Wageningen School of Social Sciences (WASS) (4,000 €).
-- *2023.06*: Travel Grant from the [LEB Travel Fund](https://www.wur.nl/en/value-creation-cooperation/benefactors/information-for-applicants/leb-foundation.htm) to participate in the XVII EAAE Congress (750 €).
+- *2023.06*: [Travel Grant](https://www.wur.nl/en/value-creation-cooperation/benefactors/information-for-applicants/leb-foundation.htm) from the LEB Travel Fund to participate in the XVII EAAE Congress (750 €).
 - *2020.12*: [PhD Full Scholarship](https://www.csc.edu.cn/) from China Scholarship Council (CSC) (64,800 €).
 - *2020.08*: [Excellent Master’s Degree Thesis of Chinese Society](http://www.cspnf.org.cn/col/col6234/art/2023/art_5b7c45c2a7f94e8db4f02b8eb60191d9.html) (Awarded to the 0.1% best master thesis in the research field of Plant Nutrition and Fertilizer Science).
 - *2019.10*: The First-Class Master Academic Scholarship of China Agricultural University (Top 1%). 

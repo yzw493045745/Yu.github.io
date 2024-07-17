@@ -20,7 +20,7 @@ In my **Job Market Paper** ([Main Text](assets/20240520_Food waste paper_Weitong
 
 **I am expected to receive my PhD in September 2025. Currently, I am seeking academic opportunities for the 2024-2025 academic year. I am available for interviews at both the [European Job Market (EJME)](https://www.europeanjobmarketofeconomists.org/) and the [Allied Social Science Associations (ASSA)](https://www.aeaweb.org/conference/).**
 
-# 📎 Research Interests
+# 🎀 Research Interests
 - Sustainable food provision and food-land-water-climate nexus 🍽️🐾💧🌎
 - Integrated environmental-economic modelling 💻
 - Environmental impact assessment of the food chain 🧩

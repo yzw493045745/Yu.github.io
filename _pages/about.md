@@ -34,7 +34,7 @@ You can reach me at weitong.long@wur.nl 📧. You can find my CV here: [Weitong 
 
 # 🔥 News
 - *2024.07*: &nbsp;🎉 **[Junior Researcher Grant](https://www.wur.nl/en/education-programmes/phd-programme/graduate-schools/wageningen-school-of-social-sciences/phd-candidates/phd-grants.htm)** from Wageningen School of Social Sciences (WASS) for the four-month PhD study at [University of California, Davis](https://www.ucdavis.edu/) (4,000 €).
-- *2024.07*: &nbsp; A oral presentation delivered at the **[European Association of Environmental and Resource Economists (EAERE) 29th Annual Conference](http://www.eaere-conferences.org/index.php?y=2024)** (Leuven, Belgium).
+- *2024.07*: &nbsp; An oral presentation delivered at the **[European Association of Environmental and Resource Economists (EAERE) 29th Annual Conference](http://www.eaere-conferences.org/index.php?y=2024)** (Leuven, Belgium).
 - *2024.06*: &nbsp; An oral presentation delivered at the **[III Economy for The Common Good International Conference (ECGIC)](https://www.wetsus.nl/ecgic-2024/)** (Leeuwarden, Fryslân, The Netherlands).
 - *2023.08*: &nbsp; A poster presentation delivered at the **[XVII European Association of Agricultural Economists (EAAE) Congress](https://eaae2023.colloque.inrae.fr/)** (Rennes, France).
 - *2023.07*: &nbsp; An oral presentation delivered at the **[EAERE Summer School](https://eaere-summer-school.uni-graz.at/en/summer-schools-2021-23/)** (University of Graz, Graz, Austria).

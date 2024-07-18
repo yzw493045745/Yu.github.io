@@ -19,16 +19,15 @@ You can reach me at zhiwei.yu@outlook.com 📧. You can find my CV here: [Zhiwei
 **I am expected to receive my PhD in September 2025. Currently, I am seeking academic opportunities for the 2024-2025 academic year. I am available for interviews at both the [European Job Market (EJME)](https://www.europeanjobmarketofeconomists.org/) and the [Allied Social Science Associations (ASSA)](https://www.aeaweb.org/conference/).**
 
 # 🎀 Research Interests
-- Sustainable food systems and food-land-water-climate nexus 🍽️🐾💧🌎
-- Integrated environmental-economic modelling of food systems 💻
-- Environmental impact assessment of food systems 🧩
+- Policy design for sustainbale food system🍽️🐾💧🌎
+- Causal inference 💻
+- Environmental and economic impact assessment of the environmental policy 🧩
 
 # 📖 Education
-- *2020.09 - 2025.09 (Expected)*: PhD Candidate of Economics in Environmental and Natural Resource Economics, [Wageningen University & Research](https://www.wur.nl/) (supervised by Associate Prof. Dr. [Xueqin Zhu](https://research.wur.nl/en/persons/xueqin-zhu), Associate Prof. Dr. [Hans-Peter Weikard](https://research.wur.nl/en/persons/hans-peter-weikard), Prof. Dr. [Oene Oenema](https://research.wur.nl/en/persons/oene-oenema), and Prof. Dr. [Yong Hou](https://faculty.cau.edu.cn/hy100/list.htm)), Wageningen, The Netherlands.
-- *2024.10 - 2025.01*: Visiting PhD Student, [University of California, Davis](https://www.ucdavis.edu/) (supervised by Assistant Professor Dr. [Luis M. Peña-Lévano](https://www.vetmed.ucdavis.edu/faculty/luis-m-pena-levano)), California, United States.
-- *2020.09 - 2021.09*: Visiting PhD Student, [China Agricultural university](https://en.cau.edu.cn/) (supervised by Prof. Dr. [Yong Hou](https://faculty.cau.edu.cn/hy100/list.htm)), Beijing, China.
-- *2018.09 - 2020.06*: Master of Agriculture in Plant Nutrition, [China Agricultural university](https://en.cau.edu.cn/) (supervised by Prof. Dr. [Yong Hou](https://faculty.cau.edu.cn/hy100/list.htm)), Beijing, China.
-- *2014.09 - 2018.06*: Bachelor of Agriculture in Agricultural Resources and Environment (Dual Bachelor of Arts in English), [Hunan Agricultural University](https://en.hunau.edu.cn/), Changsha, China. 
+- *2019.09 - 2024.12 (Expected)*: PhD Candidate of Agriculture Economic and Management,  China Agriculture University (supervised by Prof. Dr. [Wei Si](http://cem.cau.edu.cn/art/2020/3/24/art_34695_133.html), Prof. Dr. [Weifeng Zhang](https://zihuan.cau.edu.cn/art/2016/11/5/art_24899_481029.html), Prof. Dr. [Nico Heerink](https://scholar.google.com/citations?user=b17mUxUAAAAJ&hl=en&oi=ao), and Associate Prof. Dr. [Fan Li](https://scholar.google.com/citations?hl=en&user=Ns2wp84AAAAJ) ), Beijing, China. 
+- *2021.04 - 2023.05*: Visiting PhD Student, Wageningen Univeristy and Research (supervised by Prof. Dr. [Nico Heerink](https://scholar.google.com/citations?user=b17mUxUAAAAJ&hl=en&oi=ao) and Dr. [Fan Li](https://scholar.google.com/citations?hl=en&user=Ns2wp84AAAAJ)), Wageningen, the Netherlands.
+- *2017.09 - 2019.06*: Master of Agriculture Economic and Management, China Agriculture University (supervised by Prof. Dr. [Wei Si](http://cem.cau.edu.cn/art/2020/3/24/art_34695_133.html)), , Beijing, China. 
+- *2012.09 - 2016.06*: Bachelor of Agriculture Economic and Management, China Agriculture University, Beijing, China. 
 
 # 🔥 News
 - *2024*: &nbsp;🎉 **[Junior Researcher Grant](https://www.wur.nl/en/education-programmes/phd-programme/graduate-schools/wageningen-school-of-social-sciences/phd-candidates/phd-grants.htm)** from Wageningen School of Social Sciences (WASS) (4,000 €).

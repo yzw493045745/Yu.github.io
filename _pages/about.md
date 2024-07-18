@@ -47,7 +47,7 @@ You can reach me at weitong.long@wur.nl 📧. You can find my CV here: [Weitong 
 - *2020.02*: &nbsp; One second-authored paper published in ***Agriculture, Ecosystems and Environment (SCI Q1; IF=6.0)***: [**Can dietary manipulations improve the productivity of pigs with lower environmental and economic cost? A global meta-analysis**](https://www.sciencedirect.com/science/article/pii/S0167880919303640?via%3Dihub).
 
 # 📝 Key Publications 
-**Citations (Google Scholar: 18/07/2024): total=156; h-index=7; i-10=6**
+**Citations ([Google Scholar](https://scholar.google.com/citations?user=ykye0_QAAAAJ&hl): 18/07/2024): total=156; h-index=7; i-10=6**
 - **Long, W.**, Wang, H., Hou, Y., Chadwick, D., Ma, Y., Cui, Z., & Zhang, F. (2021). [**Mitigation of Multiple Environmental Footprints for China's Pig Production Using Different Land Use Strategies**](https://pubs.acs.org/doi/10.1021/acs.est.0c08359), ***Environmental Science and Technology (SCI Q1; IF=10.8)***, 55(8), 4440-4451.  
 - Wang, H., **Long, W.**, Chadwick, D., Velthof, G. L., Oenema, O., Ma, W., ... & Zhang, F. (2020). [**Can dietary manipulations improve the productivity of pigs with lower environmental and economic cost? A global meta-analysis**](https://www.sciencedirect.com/science/article/pii/S0167880919303640?via%3Dihub), ***Agriculture, Ecosystems & Environment (SCI Q1; IF=6.0)***, 289, 106748.  
 - Wang, H., **Long, W.**, Chadwick, D., Zhang, X., Zhang, S., Piao, X., & Hou, Y. (2022). [**Dietary acidifiers as an alternative to antibiotics for promoting pig growth performance: A systematic review and meta-analysis**](https://www.sciencedirect.com/science/article/pii/S0377840122001183?via%3Dihub), ***Animal Feed Science and Technology (SCI Q1; IF=2.5)***, 115320.  

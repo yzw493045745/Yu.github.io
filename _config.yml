@@ -6,9 +6,9 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Weitong Long"
-description              : "PhD candidate, Environmental Economics and Natural Resources Group (ENR) group"
-repository               : "weitong-long.github.io"
+title                    : "Zhiwei Yu"
+description              : "PhD candidate, College of Economic and Management"
+repository               : "yu.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics

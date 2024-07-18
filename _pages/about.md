@@ -40,9 +40,9 @@ You can reach me at weitong.long@wur.nl 📧. You can find my CV here: [Weitong 
 - *2023*: &nbsp;🎉 One co-authored paper published in **Nature Food (SCI Q1; IF= 23.6)**.
 - *2022*: &nbsp; One second-authored paper published in **Animal Feed Science and Technology (SCI Q1; IF=2.5)**.
 - *2021*: &nbsp;🎉 One first-authored paper published in **Environmental Science & Technology (SCI Q1; IF=10.8)**.
-- *2020*: &nbsp; One second-authored paper published in **Agriculture, Ecosystems and Environment (SCI Q1; IF=6.0)**.
 - *2020*: &nbsp;🎉 **[PhD Full Scholarship](https://www.csc.edu.cn/)** from China Scholarship Council (CSC) for the four-year PhD study at Wageningen University & Research (64,800 €).
 - *2020*: &nbsp;🎉 **[Excellent Master’s Degree Thesis](http://www.cspnf.org.cn/col/col6234/art/2023/art_5b7c45c2a7f94e8db4f02b8eb60191d9.html)** from the Chinese Society of Plant Nutrition and Fertiliser Science (Awarded to the 0.1% best master thesis in China).
+- *2020*: &nbsp; One second-authored paper published in **Agriculture, Ecosystems and Environment (SCI Q1; IF=6.0)**.
 
 # 📝 Key Publications 
 **Citations (Google Scholar: 17/07/2024): total=156; h-index=7; i-10=6**

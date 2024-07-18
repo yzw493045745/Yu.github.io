@@ -32,7 +32,7 @@ You can reach me at zhiwei.yu@outlook.com 📧. You can find my CV here: [Zhiwei
 # 🔥 News
 - *2020*: &nbsp; **[Visiting PhD Scholarship](https://www.csc.edu.cn/)** from China Scholarship Council (CSC) for the researcher at Wageningen University & Research (32,400 €).
 - *2019*: &nbsp; **[Visiting PhD Scholarship](https://www.csc.edu.cn/)** from China Scholarship Council (CSC) for the researcher at Wageningen University & Research (32,400 €).
-- *2019*: &nbsp; **[Freshman Representative at the Opening Ceremony](https://news.cau.edu.cn/zhxwnew/633484.htm)
+- *2019*: &nbsp; [Freshman Representative at the Opening Ceremony](https://news.cau.edu.cn/zhxwnew/633484.htm)
 
 # 📝 Key Publications 
 **Citations (Google Scholar: 17/07/2024): total=156; h-index=7; i-10=6**

@@ -58,7 +58,7 @@ You can reach me at weitong.long@wur.nl 📧. You can find my CV here: [Weitong 
 - **Long, W.**, Zhu, X., Weikard, H.P., Oenema, O., Hou, Y. (***Job Market Paper***; *Submitted to a Peer-reviewed Journal*). **The asymmetric impacts of feeding China’s monogastric livestock with food waste on food security and environment sustainability** ([Main Text](assets/20240520_Food waste paper_Weitong Long.pdf); [Supplementary information](assets/20240520_Supplementary information_Food waste paper_Weitong Long.pdf); [Slides](assets/20240703_Food waste slides_Weitong Long.pdf)).     
 
 # 🔍 Work in Progess
-- **Long, W.**, Zhu, X., Weikard, H.P., Oenema, O., Hou, Y. (*In Preparation*). **Food system transformation is key to achieving food security and environmental sustainability in China** ([Proposal](assets/20230620_Paper 3 proposal_Weitong Long.pdf)).
+- **Long, W.**, Zhu, X., Weikard, H.P., Oenema, O., Hou, Y. (*In Preparation*). **Food system transformation is key to achieving food security and environmental sustainability in China** ([Proposal](assets/JIA-2024-2554_ZWY.pdf)).
 - **Long, W.**, Zhu, X., Weikard, H.P., Oenema, O., Hou, Y. (*In Preparation*). **Exploring transformation options in the food-land-water-climate nexus: towards achieving multiple Sustainable Development Goals (SDGs) in China** ([Proposal](assets/20240620_Research proposal_Weitong Long_UC Davis.pdf)). 
 
 # 👩‍🏫 Teaching and Mentoring

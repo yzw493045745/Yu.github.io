@@ -59,30 +59,10 @@ You can reach me at weitong.long@wur.nl 📧. You can find my CV here: [Weitong 
 - **Long, W.**, Zhu, X., Weikard, H.P., Oenema, O., Hou, Y. (*In Preparation*). **Food system transformation is key to achieving food security and environmental sustainability in China** ([Proposal](assets/JIA-2024-2554_ZWY.pdf)).
 - **Long, W.**, Zhu, X., Weikard, H.P., Oenema, O., Hou, Y. (*In Preparation*). **Exploring transformation options in the food-land-water-climate nexus: towards achieving multiple Sustainable Development Goals (SDGs) in China** ([Proposal](assets/20240620_Research proposal_Weitong Long_UC Davis.pdf)). 
 
-# 👩‍🏫 Teaching and Mentoring
-During my PhD studies at Wageningen University & Research, I have been acting as the teaching assistant for the Master-level courses (Principles of climate change economics and policy, 2022; Economic modelling of sustainability challenges, 2023 & 2024) and supervising Master's thesis (2023 & 2024). 
-
-**Teaching Assistant, Wageningen University & Research**
-- ENR32806: Economic modelling of sustainability challenges (with Xueqin Zhu & Jack Peerlings), Master level, 6 ECTS, Spring semester 2023 & 2024). 
-- ENR22806: Principles of climate change economics and policy (with Xueqin Zhu & Ina Möller), Master level, 6 ECTS, Winter semester 2022. 
-
-**Co-supervisor of Master Thesis, Wageningen University & Research**	  
-- Master thesis: Kehan Qiu (with Rolf Groeneveld), 12/2023-05/2024.
-- Master thesis: Huangshu Zhao (with Hans-Peter Weikard), 03/2023-09/2023.
-- Master thesis: Jia Zhou (with Xueqin Zhu), 03/2022-09/2022.
-
-**Chair of Master Thesis Ring, Wageningen University & Research**	  
-- Organised weekly meetings for Master students to discuss their written thesis, 01/2022-12/2022. 
 
 # 💡 Academic Services
-**Conference Parallel Session Chair and Discussant**
-- [The 29th Anuual Conference of EAERE](http://www.eaere-conferences.org/index.php?y=2024), 07/2024.  
-
 **Conference Abstract Reviewer**
-- [The 2024 Agricultural and Applied Economics Association (AAEA) Annual Meeting](https://www.aaea.org/meetings/2024-aaea-annual-meeting), 02/2024.  
-
-**Conference Organising Committee**
-- The 7th Sino-Dutch Agriculture Green Development (AGD) Symposium, 02/2023.  
+- 17th Congress of the European Association of Agricultural Economists (EAAE), 08/2023.  
 
 # 💬 Conference Presentations
 - Monitoring, regulation and subsidization in agri-environmental governance: straw-burning control in Northeastern China. Oral presentation delivered at the 2024 European Association of Environmental and Resource Economists Conference (EAERE), Leuven, Belgium, 07/2024
@@ -94,23 +74,10 @@ During my PhD studies at Wageningen University & Research, I have been acting as
 -	The institution competition: Consumer cooperatives and investor-owned firms. Oral presentation delivered at the 2020 CAER-IFPRI Annual Conference, Chongqing, China, 10/2020 (First and presenting author).
 
 
-# 👾 Training courses
-**[EAERE Summer School](https://eaere-summer-school.uni-graz.at/en/summer-schools-2021-23/) in Resource and Environmental Economics**  
-*University of Graz, Graz, Austria*
-- Transnational and Cascading Climate Risks and Adaptation, 07/2023.     
 
-**Dynamic General Equilibrium Modelling Course**  
-*Victoria University & University of International Business and Economics, Beijing, China*
-- CHINAGEM, A Monash-Styled Dynamic Computable General Equilibrium Model of China, 07/2021. 
-
-# 🏆 Grants and Awards
-- *2024.07*: [Junior Researcher Grant](https://www.wur.nl/en/education-programmes/phd-programme/graduate-schools/wageningen-school-of-social-sciences/phd-candidates/phd-grants.htm) from Wageningen School of Social Sciences (WASS) (4,000 €).
-- *2023.06*: [Travel Grant](https://www.wur.nl/en/value-creation-cooperation/benefactors/information-for-applicants/leb-foundation.htm) from the LEB Travel Fund to participate in the XVII EAAE Congress (750 €).
-- *2020.12*: [PhD Full Scholarship](https://www.csc.edu.cn/) from China Scholarship Council (CSC) (64,800 €).
-- *2020.08*: [Excellent Master’s Degree Thesis](http://www.cspnf.org.cn/col/col6234/art/2023/art_5b7c45c2a7f94e8db4f02b8eb60191d9.html) from the Chinese Society of Plant Nutrition and Fertiliser Science (Awarded to the 0.1% best master thesis in China).
-- *2019.10*: The First-Class Master Academic Scholarship of China Agricultural University (Top 1%). 
-- *2018.11*: The First Prize of China Agricultural University English Speech Contest (Top 1%). 
-- *2015.09*: The Third Prize of the National English Contest for Chinese College Students (Top 3%). 
+# 🏆 Grants
+- *2023.06*: [Travel Grant](https://www.wur.nl/en/value-creation-cooperation/benefactors/information-for-applicants/leb-foundation.htm) from the CAU Travel Fund to participate in the XVII EAAE Congress (1700 €).
+- *2020.12*: [visiting Reaseacher Schorlarship](https://www.csc.edu.cn/) from China Scholarship Council (CSC) (32,400 €).
 
 # 💻 Skills
 - **Programming**: General Algebraic Modeling System (GAMS, advanced, e.g. model establishment), General Equilibrium Modelling PACKage (GEMPACK, intermediate), R (intermediate).

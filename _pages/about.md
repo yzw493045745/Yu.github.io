@@ -38,7 +38,9 @@ You can reach me at weitong.long@wur.nl 📧. You can find my CV here: [Weitong 
 -Cheng, P., Yu, Z., Li, J*., Cheng, G. (2021). Research on farmers’ cognition, external environment and green production behavior—based on the survey data of Xinjiang (in Chinese). Journal of Arid Land Resources and Environment, 35(1)
 # 📜 Under Review
 -Yu, Z., Hao J.*, Si W.  Enhancing the local enforcement of straw-burning regulation by digital technology: evidence from China. Agricultural Economics, under review
+
 -Yu, Z., Li, F.*, Si, W., Zhang, W. From agri-waste to sustainable use: A case study of straw management reform in Northeast China. Sustainable Development, under review
+
 -Yu, Z., Long W.*, Hua W.  Transition to sustainable management or revert to traditional approaches? The impact of punishment and machine availability on farmers’ straw burning. Journal of Integrative Agriculture, under review
 
 

@@ -45,19 +45,16 @@ You can reach me at weitong.long@wur.nl 📧. You can find my CV here: [Weitong 
 - *2020.02*: &nbsp; One second-authored paper published in ***Agriculture, Ecosystems and Environment (SCI Q1; IF=6.0)***: [**Can dietary manipulations improve the productivity of pigs with lower environmental and economic cost? A global meta-analysis**](https://www.sciencedirect.com/science/article/pii/S0167880919303640?via%3Dihub).
 
 # 📝 Key Publications 
-**Citations ([Google Scholar](https://scholar.google.com/citations?user=ykye0_QAAAAJ&hl): 01/08/2024): total=160; h-index=7; i-10=6**
-- **Long, W.**, Wang, H., Hou, Y., Chadwick, D., Ma, Y., Cui, Z., & Zhang, F. (2021). [**Mitigation of Multiple Environmental Footprints for China's Pig Production Using Different Land Use Strategies**](https://pubs.acs.org/doi/10.1021/acs.est.0c08359), ***Environmental Science and Technology (SCI Q1; IF=10.8)***, 55(8), 4440-4451.  
-- Wang, H., **Long, W.**, Chadwick, D., Velthof, G. L., Oenema, O., Ma, W., ... & Zhang, F. (2020). [**Can dietary manipulations improve the productivity of pigs with lower environmental and economic cost? A global meta-analysis**](https://www.sciencedirect.com/science/article/pii/S0167880919303640?via%3Dihub), ***Agriculture, Ecosystems & Environment (SCI Q1; IF=6.0)***, 289, 106748.  
-- Wang, H., **Long, W.**, Chadwick, D., Zhang, X., Zhang, S., Piao, X., & Hou, Y. (2022). [**Dietary acidifiers as an alternative to antibiotics for promoting pig growth performance: A systematic review and meta-analysis**](https://www.sciencedirect.com/science/article/pii/S0377840122001183?via%3Dihub), ***Animal Feed Science and Technology (SCI Q1; IF=2.5)***, 115320.  
-- Tong, B., Zhang, L., Hou, Y., Oenema, O., **Long, W.**, Velthof, G. L., ... & Zhang, F. (2020). [**Lower pork consumption and technological change in feed production can reduce the pork supply chain environmental footprint in China**](https://www.nature.com/articles/s43016-022-00640-6), ***Nature Food (SCI Q1; IF=23.6)***, 1-10.  
+-Cheng, P., Yu, Z., Li, J*., Cheng, G. (2021). Research on farmers’ cognition, external environment and green production behavior—based on the survey data of Xinjiang (in Chinese). Journal of Arid Land Resources and Environment, 35(1)
+# 📜 Under Review
+-Yu, Z., Hao J.*, Si W.  Enhancing the local enforcement of straw-burning regulation by digital technology: evidence from China. Agricultural Economics, under review
+-Yu, Z., Li, F.*, Si, W., Zhang, W. From agri-waste to sustainable use: A case study of straw management reform in Northeast China. Sustainable Development, under review
+-Yu, Z., Long W.*, Hua W.  Transition to sustainable management or revert to traditional approaches? The impact of punishment and machine availability on farmers’ straw burning. Journal of Integrative Agriculture, under review
 
-# 📜 Working Papers
-- **Long, W.**, Zhu, X., Weikard, H.P., Oenema, O., Hou, Y. (*Revise and Resubmit at* ***Sustainable Production and Consumption; SCI & SSCI Q1; IF=10.9***). **How can sustainable food production and consumption in China be achieved** ([Main Text](assets/JIA-2024-2554_ZWY.pdf); [Supplementary information](assets/20240615_SPC_Supplementary information.pdf); [Slides](assets/202307_EAERE summer school_Weitong Long.pdf))?  
-- **Long, W.**, Zhu, X., Weikard, H.P., Oenema, O., Hou, Y. (***Job Market Paper***; *Submitted to a Peer-reviewed Journal*). **The asymmetric impacts of feeding China’s monogastric livestock with food waste on food security and environment sustainability** ([Main Text](assets/20240520_Food waste paper_Weitong Long.pdf); [Supplementary information](assets/20240520_Supplementary information_Food waste paper_Weitong Long.pdf); [Slides](assets/20240703_Food waste slides_Weitong Long.pdf)).     
 
 # 🔍 Work in Progess
-- **Long, W.**, Zhu, X., Weikard, H.P., Oenema, O., Hou, Y. (*In Preparation*). **Food system transformation is key to achieving food security and environmental sustainability in China** ([Proposal](assets/JIA-2024-2554_ZWY.pdf)).
-- **Long, W.**, Zhu, X., Weikard, H.P., Oenema, O., Hou, Y. (*In Preparation*). **Exploring transformation options in the food-land-water-climate nexus: towards achieving multiple Sustainable Development Goals (SDGs) in China** ([Proposal](assets/20240620_Research proposal_Weitong Long_UC Davis.pdf)). 
+-Yu, Z., Li F.*, Si, W., Cecchic F., Zhang W., Heerink, N. Straw-burning Management in Northeast China: Combination of regulation and subsidization? (Accepted by the CES and EAERE conferences)
+-Yu, Z., Li J.*, Zhang W. Heerink, N. Technology innovation and Market failure: Insight from Conservation Tillage in Northeast China (In preparation)
 
 
 # 💡 Academic Services

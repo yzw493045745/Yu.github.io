@@ -63,7 +63,7 @@ You can reach me at weitong.long@wur.nl 📧. You can find my CV here: [Weitong 
 - *2023.06*: [Travel Grant](https://www.wur.nl/en/value-creation-cooperation/benefactors/information-for-applicants/leb-foundation.htm) from the CAU Travel Fund to participate in the XVII EAAE Congress (1700 €).
 - *2020.12*: [visiting Reaseacher Schorlarship](https://www.csc.edu.cn/) from China Scholarship Council (CSC) (32,400 €).
 
-# 🏆 Woring Experience
+# 🔥 Woring Experience
 - *11/2018-01/2019*：Intern, Research Institute of Yongan Futures Co., Ltd., Beijing, China
 - *06/2018-09/2018*：Intern, Research Institute of Dalian Commodity Exchange, Beijing, China
 - *07/2016-07/2017*：Volunteer Teacher, Zhenkang No.1 Middle School, Yunnan, China

@@ -14,7 +14,7 @@ I am a PhD candidate from College of Economics and Management in [China Agricult
 With over 7+ years of experience as a researcher and economist, I specialise in policy evaluation and environmental impact assessment. My expertise lies in applying quantitative modelling approaches to explore mitigation pathways for sustainable food systems.Dissertation on exploring the policy design to address environment issue through technology and institution innovation based on the insight from straw-burning management in China. 
 In my **Job Market Paper** ([Main Text](assets/20240520_Food waste paper_Weitong Long.pdf); [Supplementary information](assets/20240520_Supplementary information_Food waste paper_Weitong Long.pdf); [Slides](assets/20240703_Food waste slides_Weitong Long.pdf)), I discussed the asymmetric impacts of feeding China’s monogastric livestock with food waste on food security and environment sustainability. 
 
-You can reach me at weitong.long@wur.nl 📧. You can find my CV here: [Weitong Long's Curriculum Vitae](assets/20240801_CV_Weitong Long.pdf)
+You can reach me at zhiwei.yu.yzw@outlook.com 📧. You can find my CV here: [Zhiwei Yu's Curriculum Vitae](assets/20240801_CV_Weitong Long.pdf)
 
 **I am expected to receive my PhD in September 2024. Currently, I am seeking academic opportunities for the 2024-2025 academic year. I am available for interviews.**
 

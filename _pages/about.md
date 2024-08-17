@@ -32,19 +32,9 @@ You can reach me at weitong.long@wur.nl 📧. You can find my CV here: [Weitong 
 
 # 🔥 News
 - *2024.07*: &nbsp;🎉 **[Junior Researcher Grant](https://www.wur.nl/en/education-programmes/phd-programme/graduate-schools/wageningen-school-of-social-sciences/phd-candidates/phd-grants.htm)** from Wageningen School of Social Sciences (WASS) for the four-month PhD study at [University of California, Davis](https://www.ucdavis.edu/) (4,000 €).
-- *2024.07*: &nbsp; An oral presentation delivered at the **[European Association of Environmental and Resource Economists (EAERE) 29th Annual Conference](http://www.eaere-conferences.org/index.php?y=2024)** (Leuven, Belgium).
-- *2024.06*: &nbsp; An oral presentation delivered at the **[III Economy for The Common Good International Conference (ECGIC)](https://www.wetsus.nl/ecgic-2024/)** (Leeuwarden, Fryslân, The Netherlands).
-- *2023.08*: &nbsp; A poster presentation delivered at the **[XVII European Association of Agricultural Economists (EAAE) Congress](https://eaae2023.colloque.inrae.fr/)** (Rennes, France).
-- *2023.07*: &nbsp; An oral presentation delivered at the **[EAERE Summer School](https://eaere-summer-school.uni-graz.at/en/summer-schools-2021-23/)** (University of Graz, Graz, Austria).
-- *2023.06*: &nbsp;🎉 **[Travel Grant](https://www.wur.nl/en/value-creation-cooperation/benefactors/information-for-applicants/leb-foundation.htm)** from the LEB Travel Fund to participate in the XVII EAAE Congress (750 €).
-- *2022.12*: &nbsp;🎉 One co-authored paper published in ***Nature Food (SCI Q1; IF= 23.6)***: [**Lower pork consumption and technological change in feed production can reduce the pork supply chain environmental footprint in China**](https://www.nature.com/articles/s43016-022-00640-6).
-- *2022.07*: &nbsp; One second-authored paper published in ***Animal Feed Science and Technology (SCI Q1; IF=2.5)***: [**Dietary acidifiers as an alternative to antibiotics for promoting pig growth performance: A systematic review and meta-analysis**](https://www.sciencedirect.com/science/article/pii/S0377840122001183?via%3Dihub).
-- *2021*.04: &nbsp;🎉 One first-authored paper published in ***Environmental Science & Technology (SCI Q1; IF=10.8)***: [**Mitigation of Multiple Environmental Footprints for China's Pig Production Using Different Land Use Strategies**](https://pubs.acs.org/doi/10.1021/acs.est.0c08359).
-- *2020.12*: &nbsp;🎉 **[PhD Full Scholarship](https://www.csc.edu.cn/)** from China Scholarship Council (CSC) for the four-year PhD study at [Wageningen University & Research](https://www.wur.nl/) (64,800 €).
-- *2020.08*: &nbsp;🎉 **[Excellent Master’s Degree Thesis](http://www.cspnf.org.cn/col/col6234/art/2023/art_5b7c45c2a7f94e8db4f02b8eb60191d9.html)** from the Chinese Society of Plant Nutrition and Fertiliser Science (Awarded to the 0.1% best master thesis in China).
-- *2020.02*: &nbsp; One second-authored paper published in ***Agriculture, Ecosystems and Environment (SCI Q1; IF=6.0)***: [**Can dietary manipulations improve the productivity of pigs with lower environmental and economic cost? A global meta-analysis**](https://www.sciencedirect.com/science/article/pii/S0167880919303640?via%3Dihub).
 
-# 📝 Key Publications 
+
+# 📝 Publications 
 -Cheng, P., Yu, Z., Li, J*., Cheng, G. (2021). Research on farmers’ cognition, external environment and green production behavior—based on the survey data of Xinjiang (in Chinese). Journal of Arid Land Resources and Environment, 35(1)
 # 📜 Under Review
 -Yu, Z., Hao J.*, Si W.  Enhancing the local enforcement of straw-burning regulation by digital technology: evidence from China. Agricultural Economics, under review

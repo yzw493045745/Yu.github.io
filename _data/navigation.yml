@@ -9,20 +9,16 @@ main:
   - title: "Education"
     url: "/#-education"
 
-  - title: "News"
-    url: "/#-news"
 
-  - title: "Key Publications"
-    url: "/#-key-publications"
 
-  - title: "Working Papers"
-    url: "/#-working-papers"
+  - title: "Publications"
+    url: "/#-publications"
+
+
 
   - title: "Work in Progess"
     url: "/#-work-in-progess"
 
-  - title: "Teaching and Mentoring"
-    url: "/#-teaching-and-mentoring"
 
   - title: "Academic Services"
     url: "/#-academic-services"
@@ -30,8 +26,6 @@ main:
   - title: "Conference Presentations"
     url: "/#-conference-presentations"
 
-  - title: "Training courses"
-    url: "/#-training-courses"
 
   - title: "Grants and Awards"
     url: "/#-grants-and-awards"

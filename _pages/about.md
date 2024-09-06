@@ -16,7 +16,7 @@ With over 7+ years of experience as a researcher and economist, I specialise in 
 
 You can reach me at zhiwei.yu.yzw@outlook.com 📧.
 
-**I am expected to receive my PhD in September 2024. Currently, I am seeking academic opportunities for the 2024-2025 academic year. I am available for interviews.**
+**I am expected to receive my PhD in December 2024. Currently, I am seeking academic opportunities for the 2024-2025 academic year. I am available for interviews.**
 
 # 🎀 Research Interests
 - Institution and technology innovation analysis🍽️🐾💧🌎

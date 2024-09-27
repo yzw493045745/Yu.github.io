@@ -35,8 +35,8 @@ You can reach me at zhiwei.yu.yzw@outlook.com 📧.
 # 📜 Under Review
 - Yu, Z., Hao J.*, Si W.  [Enhancing the local enforcement of straw-burning regulation by digital technology: evidence from China](assets/Manuscript.pdf). Agricultural Economics, invited to revision
 - - Yu, Z., Li F.*, Si, W., Cecchic F., Zhang W., Heerink N. [Command-and-control and market-based instruments in agri-environmental governance: Case study of straw-burning control in Northeastern China](assets/Manuscript_AJAE.pdf), American Journal of Agricultural Economics, under review
-- Yu, Z., Li, F.*, Si, W., Zhang, W. [From agri-waste to sustainable use: A case study of straw management reform in Northeast China. Sustainable Development](https://github.com/yzw493045745/Yu.github.io/blob/main/assets/Manuscript_SD.pdf), under review
-- Yu, Z., Long W.*, Hua W.  [Transition to sustainable management or revert to traditional approaches? The impact of punishment and machine availability on farmers’ straw burning]. Energy policy, with editor
+- Yu, Z., Li, F.*, Si, W., Zhang, W. [From agri-waste to sustainable use: A case study of straw management reform in Northeast China](https://github.com/yzw493045745/Yu.github.io/blob/main/assets/Manuscript_SD.pdf). Sustainable Development, under review
+- Yu, Z., Long W.*, Hua W.  [Transition to sustainable management or revert to traditional approaches? The impact of punishment and machine availability on farmers’ straw burning](https://github.com/yzw493045745/Yu.github.io/blob/main/assets/Mauncript_EP.pdf). Energy policy, with editor
 
 
 

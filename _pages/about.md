@@ -33,10 +33,10 @@ You can reach me at zhiwei.yu.yzw@outlook.com 📧.
 # 📝 Publications 
 -Cheng, P., Yu, Z., Li, J*., Cheng, G. (2021). Research on farmers’ cognition, external environment and green production behavior—based on the survey data of Xinjiang (in Chinese). Journal of Arid Land Resources and Environment, 35(1)
 # 📜 Under Review
-- Yu, Z., Hao J.*, Si W.  [Enhancing the local enforcement of straw-burning regulation by digital technology: evidence from China](assets/Manuscript.pdf). Agricultural Economics, returned to revision
-- Yu, Z., Li, F.*, Si, W., Zhang, W. From agri-waste to sustainable use: A case study of straw management reform in Northeast China. Sustainable Development(assets/Manuscript_AJAE.pdf), under review
+- Yu, Z., Hao J.*, Si W.  [Enhancing the local enforcement of straw-burning regulation by digital technology: evidence from China](assets/Manuscript.pdf). Agricultural Economics, invited to revision
+- Yu, Z., Li, F.*, Si, W., Zhang, W. From agri-waste to sustainable use: A case study of straw management reform in Northeast China. Sustainable Development, under review
 - Yu, Z., Long W.*, Hua W.  [Transition to sustainable management or revert to traditional approaches? The impact of punishment and machine availability on farmers’ straw burning](https://yzw493045745.github.io/Yu.github.io/assets/JIA-2024-2554_ZWY.pdf). Energy policy, under review
-- Yu, Z., Li F.*, Si, W., Cecchic F., Zhang W., Heerink N. Command-and-control and market-based instruments in agri-environmental governance: Case study of straw-burning control in Northeastern China, under review
+- Yu, Z., Li F.*, Si, W., Cecchic F., Zhang W., Heerink N. [Command-and-control and market-based instruments in agri-environmental governance: Case study of straw-burning control in Northeastern China](assets/Manuscript_AJAE.pdf), American Journal of Agricultural Economics, under review
 
 
 

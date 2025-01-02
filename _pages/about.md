@@ -35,7 +35,7 @@ You can reach me at zhiwei.yu.yzw@outlook.com 📧.
 - Yu, Z., Hao J.*, Si W.  [Enhancing the local enforcement of straw-burning regulation by digital technology: evidence from China](https://editorialexpress.com/cgi-bin/e-editor/e-checksub.cgi?dbase=agecon&user_id=zhiwei.yu&manuscript=2024248&password=6qymEzZv). Agricultural Economics,  Accepted and forthcoming. (IF= 4.5 in 2023)
 - Cheng, P., Yu, Z., Li, J*., Cheng, G., 2021. Research on farmers’ cognition, external environment and green production behavior—based on the survey data of Xinjiang (in Chinese). Journal of Arid Land Resources and Environment. 35, 29-35
 # 📜 Job Market paper
-- •	Yu, Z., Li, F.*, Si, W., Cecchic F., Zhang W., Heerink, N., [Market-based instruments in agri-environmental governance: A case study of straw-burning control in Northeastern China](assets/Manuscript_JMP.pdf). 
+- •	Yu, Z., Li, F.*, Si, W., Cecchic F., Zhang W., Heerink, N., [Market-based instruments in agri-environmental governance: A case study of straw-burning control in Northeastern China](https://github.com/yzw493045745/Yu.github.io/blob/main/assets/Manuscript_JMP.pdf). 
 
 
 

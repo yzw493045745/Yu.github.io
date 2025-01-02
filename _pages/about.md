@@ -34,17 +34,16 @@ You can reach me at zhiwei.yu.yzw@outlook.com 📧.
 -	Yu, Z., Li, F.*, Si, W., Zhang, W., 2025. [From agri-waste to sustainable use: A case study of straw management reform in Northeast China](https://doi.org/10.1002/sd.3315), Sustainable Development. 0, 1-13. (IF= 9.9 in 2023)
 - Yu, Z., Hao J.*, Si W.  [Enhancing the local enforcement of straw-burning regulation by digital technology: evidence from China](https://editorialexpress.com/cgi-bin/e-editor/e-checksub.cgi?dbase=agecon&user_id=zhiwei.yu&manuscript=2024248&password=6qymEzZv). Agricultural Economics,  Accepted and forthcoming. (IF= 4.5 in 2023)
 - Cheng, P., Yu, Z., Li, J*., Cheng, G., 2021. Research on farmers’ cognition, external environment and green production behavior—based on the survey data of Xinjiang (in Chinese). Journal of Arid Land Resources and Environment. 35, 29-35
-# 📜 Under Review
-- Yu, Z., Hao J.*, Si W.  [Enhancing the local enforcement of straw-burning regulation by digital technology: evidence from China]([assets/Manuscript.pdf](https://editorialexpress.com/cgi-bin/e-editor/e-checksub.cgi?dbase=agecon&user_id=zhiwei.yu&manuscript=2024248&password=6qymEzZv)). Agricultural Economics, invited to revision
-- Yu, Z., Li F.*, Si, W., Cecchic F., Zhang W., Heerink N. [Command-and-control and market-based instruments in agri-environmental governance: Case study of straw-burning control in Northeastern China](assets/Manuscript_AJAE.pdf), American Journal of Agricultural Economics, under review
-- Yu, Z., Li, F.*, Si, W., Zhang, W. [From agri-waste to sustainable use: A case study of straw management reform in Northeast China](assets/Manuscript_SD.pdf). Sustainable Development, under review
-- Yu, Z., Long W.*, Hua W.  [Transition to sustainable management or revert to traditional approaches? The impact of punishment and machine availability on farmers’ straw burning](assets/Mauncript_EP.pdf). Energy policy, with editor
+# 📜 Job Market paper
+- •	Yu, Z., Li, F.*, Si, W., Cecchic F., Zhang W., Heerink, N., Market-based instruments in agri-environmental governance: A case study of straw-burning control in Northeastern China. 
 
 
 
 # 🔍 Work in Progess
 
-- Yu, Z., Li J.*, Zhang W. Heerink, N. Technology innovation and Market failure: Insight from Conservation Tillage in Northeast China (In preparation)
+-	Yu, Z., Jiang, J., Li, J. , Zhang W.*, The evolving role of scientists in the food system: A case study in conservation tillage in Northeast China
+-	Yu, Z., Li, J.*, Zhang W., Jiang, J., Heerink, N., Crossing the river by feeling for the stones: interplay between public policy and conservation-agriculture innovation in Northeast China.
+
 
 
 # 💡 Academic Services

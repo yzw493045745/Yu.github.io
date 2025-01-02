@@ -10,8 +10,8 @@ redirect_from:
 
 Welcome to my personal website!
 
-I am a PhD candidate from College of Economics and Management in [China Agriculture University](https://www.cau.edu.cn/).My PhD project is fund by [Sino-Dutch Agriculture Green Development Program](https://www.wur.nl/en/education-programmes/phd-programme/agd-phd-program.htm). In the project, I am supervised by Prof. Dr. [Wei Si](http://cem.cau.edu.cn/art/2020/3/24/art_34695_133.html) and Prof. Dr. [Weifeng Zhang](http://faculty.cau.edu.cn/zwf/) from China Agriculture University as well as Prof. Dr.[Nico Heerink](https://www.wur.nl/nl/personen/nico-heerink.htm), and Dr. [Fan Li](https://www.wur.nl/en/persons/fan-li.htm) from [Wageningen University & Research](https://www.wur.nl/). 
-With over 7+ years of experience as a researcher and economist, I specialise in policy evaluation and environmental impact assessment. My expertise lies in applying quantitative modelling approaches to explore mitigation pathways for sustainable food systems.Dissertation on exploring the policy design to address environment issue through technology and institution innovation based on the insight from straw-burning management in China. 
+I am a PhD candidate from the College of Economics and Management in [China Agriculture University](https://www.cau.edu.cn/). My PhD project is funded by [Sino-Dutch Agriculture Green Development Program](https://www.wur.nl/en/education-programmes/phd-programme/agd-phd-program.htm). In the project, I am supervised by Prof. Dr. [Wei Si](http://cem.cau.edu.cn/art/2020/3/24/art_34695_133.html) and Prof. Dr. [Weifeng Zhang](http://faculty.cau.edu.cn/zwf/) from China Agriculture University as well as Prof. Dr.[Nico Heerink](https://www.wur.nl/nl/personen/nico-heerink.htm), and Dr. [Fan Li](https://www.wur.nl/en/persons/fan-li.htm) from [Wageningen University & Research](https://www.wur.nl/). 
+With over 7+ years of experience as a researcher and economist, I specialize in policy evaluation and environmental impact assessment. My expertise lies in applying quantitative modeling approaches to explore mitigation pathways for sustainable food systems. Dissertation on exploring the policy design to address environmental issues through technology and institution innovation based on the insight from straw-burning management in China. 
 
 
 You can reach me at zhiwei.yu.yzw@outlook.com 📧.
@@ -31,9 +31,11 @@ You can reach me at zhiwei.yu.yzw@outlook.com 📧.
 - 
 
 # 📝 Publications 
--Cheng, P., Yu, Z., Li, J*., Cheng, G. (2021). Research on farmers’ cognition, external environment and green production behavior—based on the survey data of Xinjiang (in Chinese). Journal of Arid Land Resources and Environment, 35(1)
+-	Yu, Z., Li, F.*, Si, W., Zhang, W., 2025. [From agri-waste to sustainable use: A case study of straw management reform in Northeast China](https://doi.org/10.1002/sd.3315), Sustainable Development. 0, 1-13. (IF= 9.9 in 2023)
+- Yu, Z., Hao J.*, Si W.  [Enhancing the local enforcement of straw-burning regulation by digital technology: evidence from China](https://editorialexpress.com/cgi-bin/e-editor/e-checksub.cgi?dbase=agecon&user_id=zhiwei.yu&manuscript=2024248&password=6qymEzZv). Agricultural Economics,  Accepted and forthcoming. (IF= 4.5 in 2023)
+- Cheng, P., Yu, Z., Li, J*., Cheng, G., 2021. Research on farmers’ cognition, external environment and green production behavior—based on the survey data of Xinjiang (in Chinese). Journal of Arid Land Resources and Environment. 35, 29-35
 # 📜 Under Review
-- Yu, Z., Hao J.*, Si W.  [Enhancing the local enforcement of straw-burning regulation by digital technology: evidence from China](assets/Manuscript.pdf). Agricultural Economics, invited to revision
+- Yu, Z., Hao J.*, Si W.  [Enhancing the local enforcement of straw-burning regulation by digital technology: evidence from China]([assets/Manuscript.pdf](https://editorialexpress.com/cgi-bin/e-editor/e-checksub.cgi?dbase=agecon&user_id=zhiwei.yu&manuscript=2024248&password=6qymEzZv)). Agricultural Economics, invited to revision
 - Yu, Z., Li F.*, Si, W., Cecchic F., Zhang W., Heerink N. [Command-and-control and market-based instruments in agri-environmental governance: Case study of straw-burning control in Northeastern China](assets/Manuscript_AJAE.pdf), American Journal of Agricultural Economics, under review
 - Yu, Z., Li, F.*, Si, W., Zhang, W. [From agri-waste to sustainable use: A case study of straw management reform in Northeast China](assets/Manuscript_SD.pdf). Sustainable Development, under review
 - Yu, Z., Long W.*, Hua W.  [Transition to sustainable management or revert to traditional approaches? The impact of punishment and machine availability on farmers’ straw burning](assets/Mauncript_EP.pdf). Energy policy, with editor

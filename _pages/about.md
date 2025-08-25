@@ -21,29 +21,27 @@ You can reach me at zhiwei.yu.yzw@outlook.com 📧.
 # 🎀 Research Interests
 - Institution and technology innovation analysis🍽️🐾💧🌎
 - Eviromental policy evaluation 💻
-- Environmental impact assessment of food systems 🧩
 
 # 📖 Education
-- *2019.09 - 2024.12 (Expected)*: PhD Candidate of Economics in Agricultural Environment and Management, [China Agriculture University](https://www.cau.edu.cn/) (supervised by Prof. Dr.[Wei Si](http://cem.cau.edu.cn/art/2020/3/24/art_34695_133.html) and Prof. Dr. [Weifeng Zhang](http://faculty.cau.edu.cn/zwf/)), Beijing, China.
+- *2019.09 - 2025.07*: PhD of Economics in Agricultural Environment and Management, [China Agriculture University](https://www.cau.edu.cn/) (supervised by Prof. Dr.[Wei Si](http://cem.cau.edu.cn/art/2020/3/24/art_34695_133.html) and Prof. Dr. [Weifeng Zhang](http://faculty.cau.edu.cn/zwf/)), Beijing, China.
 - *2021.4 - 2023.05*: Visiting PhD Student in Development Economics Group, [Wageningen University & Research](https://www.wur.nl) (supervised by Prof. Dr.[Nico Heerink](https://www.wur.nl/nl/personen/nico-heerink.htm), and Dr. [Fan Li](https://www.wur.nl/en/persons/fan-li.htm)), Wageningen, Netherlands.
 - *2018.09 - 2020.06*: Master of  Economics in Agricultural Environment and Management, [China Agricultural university](https://en.cau.edu.cn/) (supervised by Prof. Dr.[Wei Si](http://cem.cau.edu.cn/art/2020/3/24/art_34695_133.html)), Beijing, China.
 - *2014.09 - 2018.06*: Bachelor of Economics in Agricultural Environment and Management, [China Agricultural university](https://en.cau.edu.cn/), Beijing, China.
 - 
+# 🔥 Woring Experience
+- *07/2025-now*：Senior Analyst, CCID consulting, China Center for Information Industry Development (CCID), Beijing, China
 
 # 📝 Publications 
--	Yu, Z., Li, F.*, Si, W., Zhang, W., 2025. [From agri-waste to sustainable use: A case study of straw management reform in Northeast China](https://doi.org/10.1002/sd.3315), Sustainable Development. 0, 1-13. (IF= 9.9 in 2023)
-- Yu, Z., Hao J.*, Si W.  [Enhancing the local enforcement of straw-burning regulation by digital technology: evidence from China](https://editorialexpress.com/cgi-bin/e-editor/e-checksub.cgi?dbase=agecon&user_id=zhiwei.yu&manuscript=2024248&password=6qymEzZv). Agricultural Economics,  Accepted and forthcoming. (IF= 4.5 in 2023)
+-	Yu, Z., Li, F.*, Si, W., Zhang, W., 2025. [From agri-waste to sustainable use: A case study of straw management reform in Northeast China](https://doi.org/10.1002/sd.3315), Sustainable Development. 33(2), 3818-3830. (IF= 8.0 in 2024)
+- Yu, Z., Hao J.*, Si W.  [Enhancing the local enforcement of straw-burning regulation by digital technology: evidence from China](https://editorialexpress.com/cgi-bin/e-editor/e-checksub.cgi?dbase=agecon&user_id=zhiwei.yu&manuscript=2024248&password=6qymEzZv). Agricultural Economics,  56(4), 604-621. (IF= 4.0 in 2024)
 - Cheng, P., Yu, Z., Li, J*., Cheng, G., 2021. Research on farmers’ cognition, external environment and green production behavior—based on the survey data of Xinjiang (in Chinese). Journal of Arid Land Resources and Environment. 35, 29-35
-# 📜 Job Market paper
-- •	Yu, Z., Li, F.*, Si, W., Cecchic F., Zhang W., Heerink, N., [Market-based instruments in agri-environmental governance: A case study of straw-burning control in Northeastern China](https://github.com/yzw493045745/Yu.github.io/blob/main/assets/Manuscript_JMP.pdf). 
+
+# 📜 R&R
+-Yu, Z., Li, J.*, Zhang W., Jiang, J., How public policies influence conservation-agriculture technology  innovation: A case study from Northeast China. Land Use Policy. R&R
 
 
-
-# 🔍 Work in Progess
-
--	Yu, Z., Jiang, J., Li, J. , Zhang W.*, The evolving role of scientists in the food system: A case study in conservation tillage in Northeast China
--	Yu, Z., Li, J.*, Zhang W., Jiang, J., Heerink, N., Crossing the river by feeling for the stones: interplay between public policy and conservation-agriculture innovation in Northeast China.
-
+# 🔍 Work in Progress
+-	Yu, Z., Li, F.*, Si, W., Cecchic F., Zhang W., Heerink, N., [Market-based instruments in agri-environmental governance: A case study of straw-burning control in Northeastern China](https://github.com/yzw493045745/Yu.github.io/blob/main/assets/Manuscript_JMP.pdf). 
 
 
 # 💡 Academic Services
@@ -63,10 +61,6 @@ You can reach me at zhiwei.yu.yzw@outlook.com 📧.
 - *2023.06*: [Travel Grant](https://www.wur.nl/en/value-creation-cooperation/benefactors/information-for-applicants/leb-foundation.htm) from the CAU Travel Fund to participate in the XVII EAAE Congress (1700 €).
 - *2020.12*: [visiting Reaseacher Schorlarship](https://www.csc.edu.cn/) from China Scholarship Council (CSC) (32,400 €).
 
-# 🔥 Woring Experience
-- *11/2018-01/2019*：Intern, Research Institute of Yongan Futures Co., Ltd., Beijing, China
-- *06/2018-09/2018*：Intern, Research Institute of Dalian Commodity Exchange, Beijing, China
-- *07/2016-07/2017*：Volunteer Teacher, Zhenkang No.1 Middle School, Yunnan, China
 
 # 💻 Skills
 - **Programming**: Causal Inference, Cost-benefit Analysis

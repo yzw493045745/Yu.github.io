@@ -33,7 +33,7 @@ You can reach me at zhiwei.yu.yzw@outlook.com 📧.
 
 # 📝 Publications 
 -	Yu, Z., Li, F.*, Si, W., Zhang, W., 2025. [From agri-waste to sustainable use: A case study of straw management reform in Northeast China](https://doi.org/10.1002/sd.3315), Sustainable Development. 33(2), 3818-3830. (IF= 8.0 in 2024)
-- Yu, Z., Hao J.*, Si W.  [Enhancing the local enforcement of straw-burning regulation by digital technology: evidence from China](https://editorialexpress.com/cgi-bin/e-editor/e-checksub.cgi?dbase=agecon&user_id=zhiwei.yu&manuscript=2024248&password=6qymEzZv). Agricultural Economics,  56(4), 604-621. (IF= 4.0 in 2024)
+- Yu, Z., Hao J.*, Si W.  [Enhancing the local enforcement of straw-burning regulation by digital technology: evidence from China](https:// https://doi.org/10.1111/agec.70003). Agricultural Economics,  56(4), 604-621. (IF= 4.0 in 2024)
 - Cheng, P., Yu, Z., Li, J*., Cheng, G., 2021. Research on farmers’ cognition, external environment and green production behavior—based on the survey data of Xinjiang (in Chinese). Journal of Arid Land Resources and Environment. 35, 29-35
 
 # 📜 R&R
